@@ -27,5 +27,6 @@ public class Class1
         {
             Console.WriteLine(pervoechislo / vtoroechislo);
         }
+        типо заредачил 
     }
 }
