@@ -1,0 +1,3 @@
+C:\Users\HOME\RiderProjects\ConsoleApp2\ClassLibrary1\bin\Release\net8.0\publish\ClassLibrary1.dll
+C:\Users\HOME\RiderProjects\ConsoleApp2\ClassLibrary1\bin\Release\net8.0\publish\ClassLibrary1.deps.json
+C:\Users\HOME\RiderProjects\ConsoleApp2\ClassLibrary1\bin\Release\net8.0\publish\ClassLibrary1.pdb

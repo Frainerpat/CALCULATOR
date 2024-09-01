@@ -1,0 +1,14 @@
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Valik.exe
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Valik.deps.json
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Valik.runtimeconfig.json
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Valik.dll
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Valik.pdb
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.AssemblyInfoInputs.cache
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.AssemblyInfo.cs
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.csproj.CoreCompileInputs.cache
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.dll
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Valik.dll
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.pdb
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Valik.genruntimeconfig.cache
+C:\Users\HOME\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Valik.dll
